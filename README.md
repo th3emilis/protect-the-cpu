@@ -10,15 +10,15 @@ Use your hand or the stick you are given during the tutorial to hit back the fir
 
 ![Screenshot of a ghast shooting a fireball at the player, who is holding a stick. The terrain is entirely made of TNT blocks.](assets/screenshot_0.png)
 
-When the tutorial ends and ghasts start spawning, the scoreboard on the right side of your screen will keep track of all the seconds you manage to stay alive.
+When the tutorial ends and ghasts start spawning, the scoreboard on the right side of your screen will keep track of all the seconds you manage to stay alive, as well as how many ghasts spawn and how many you kill.
 
-![Screenshot of the “Seconds alive” scoreboard that counts how many seconds the player is alive for.](assets/screenshot_1.png)
+![Screenshot of the “Stats” scoreboard that counts how many seconds the player is alive for, how many ghasts spawn, and how many the player kills.](assets/screenshot_1.png)
 
 At specific time intervals the frequency of ghasts will increase, so be ready to up your strategy if you want to survive long enough to beat the game!
 
 ![Screenshot of the death screen after the player failed to deflect the ghast’s fireball. In the background, a massive explosion caused by TNT blocks is visible.](assets/screenshot_2.png)
 
-Keep in mind that the moment a fireball hits the ground, it’s game over! Don’t worry too much about your CPU though, as there is a system to stop the explosion once you are dead. The screenshot above is only for dramatic effect.
+Keep in mind that if a fireball hits the ground, it’s game over! Don’t worry too much about your CPU though, as there is a system to stop the explosion once you are dead. The screenshot above is only for dramatic effect.
 
 ## Terms of Use
 

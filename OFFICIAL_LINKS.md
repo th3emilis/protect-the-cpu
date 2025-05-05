@@ -3,6 +3,7 @@
 When sharing **Protect the CPU** with others (i.e., messages, internet posts, video descriptions, etc.), please do not use the direct download link or any user-generated link to the map. Instead, use one of the following official links:
 - https://mcpedl.com/protect-the-cpu
 - https://curseforge.com/minecraft-bedrock/maps/protect-the-cpu
+- https://modbay.org/maps/4412-protect-the-cpu.html
 - https://planetminecraft.com/project/protect-the-cpu-bedrock
 - https://github.com/th3emilis/protect-the-cpu
 

@@ -2,7 +2,7 @@
 
 > Created by [Th3Emilis](https://github.com/th3emilis)
 
-<a href="https://curseforge.com/minecraft-bedrock/maps/protect-the-cpu/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>
+<a href="https://curseforge.com/minecraft-bedrock/maps/protect-the-cpu/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>  
 <a href="https://mcpedl.com/protect-the-cpu/#downloads"><img src="https://github.com/user-attachments/assets/8d2314e9-8706-40e5-aabc-53adc1abe75f" height="56" alt="Get it on MCPEDL"></a>
 
 Inspired by a popular internet trend, Protect the CPU is a minigame where your goal is to survive for as long as possible by deflecting the fireballs that ghasts shoot at you. One mistake is all it takes to have the entire TNT floor crumble under your feet. So, unless you are really curious about what your CPU can handle, you’d better watch out for the ghasts!
